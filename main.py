@@ -4,6 +4,8 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 # Master 1
+# Feature 1
+# Feature 2 BlaBla
 # Master 2
 # Master 3
 
